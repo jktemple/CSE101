@@ -1,9 +1,0 @@
-Josh Temple
-CruzID: Jktemple
-PA5
-
-List.h - Header file containing the definition for the List class and accompanying function prototype
-List.cpp - C++ source file containing the definitions for the function prototypes in List.h
-ListTest.cpp - A test harness for the List ADT
-Shuffle.cpp - main executable that computes how many perfect shuffles are needed to return a deck to it's original state
-Makefile - Makefile for compiling code and running memory leak checks

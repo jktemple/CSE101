@@ -1,5 +1,0 @@
-List.h: Header file containing the definitions and function prototypes for the List ADT 
-List.c: Source File containing the implemenation of the List ADT described by List.h
-ListClient.c: Provided client test file for the List ADT
-Lex.c: Client program that uses the List ADT to alphabetize input files, outputs results as a file
-Makefile: Allows for easy code compliation, cleaning, and memory leak checks
