@@ -1,0 +1,15 @@
+Josh Temple
+CruzID: Jktemple 
+pa4
+
+List.h - header file for the list ADT
+Matrix.h - header file for the Matrix ADT, client of List
+List.c - c source file for the implementation of the List ADT
+Matrix.c - c source file for the implementation of the Matrix ADT
+Sparse.c - client of Matrio and main executable for the project, is able to read 2 Matrixes from an input file and perform various operations on/with them outputting the results in a file
+MaxtrixTest.c - a test harness for the Matrix ADT 
+ListTest.c - a test harness for the List ADT
+MakefADT - makefile for the project, allows for easy compilation, execution, and memory checks
+
+Notes: While testing on the Unix timeshare I noticed an odd behavior: occasionally when running the grading script a 
+timeout would occur on one of the Sparse tests semi randomly, with no changes to the code from run to run. I suspect this could be due to the sever being under greater loads when many students are connected and running tests.
