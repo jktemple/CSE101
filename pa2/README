@@ -1,0 +1,16 @@
+Josh Temple
+CruzID: 1797034
+pa2
+
+Files:
+Graph.h - header file that contains the interface and type defintions for the Graph ADT
+Graph.c - C source file that contains the implimentation of the Graph ADT described in Graph.h
+List.h - Header file that contains the interface and type defintions for the List ADT from pa1
+List.c - C source file that contains the implimentation of the List ADT described in List.h
+GraphTest.c - A test harness to test the functions in Graph.c
+FindPath.c - A program that takes data about a Graph from the input file and calculates the shortest path between the requested vertices 
+outputed in a seperate file
+Makefile - The makefile that allows for code compilation and memory leak checking
+
+Note: For whatever reason I was having a hard time connecting to the Unix timeshare so I did my testing on an Ubuntu Vm on my computer instead. 
+I'm confident it will work the same on there, but I don't know for sure

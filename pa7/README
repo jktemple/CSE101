@@ -1,0 +1,14 @@
+Josh Temple
+CruzID: Jktemple
+PA7
+
+README - Project details
+Makefile - Makefile for code complier, execution, and memory leak checks
+Dictionary.h - Header file for the Dictionary ADT, includes an inner Struct Node 
+    (Helper function transplant() was added to provided .h file)
+Dictionary.cpp - C++ source file for the Dictionary ADT, uses a Binary Search Tree to store keys 
+in a effienctly stored manner;
+DictionaryTest.cpp - Test harness for the Dictionary ADT.
+Order.cpp - Highest level client and main excecutable for the project, reads lines from the input file 
+and sorts them into a Binary Search Tree outputing an ordered list of all keys and their values as well as
+preorder walk of the tree

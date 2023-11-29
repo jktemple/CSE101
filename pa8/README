@@ -1,0 +1,11 @@
+Josh Temple
+CruzID: jktemple
+PA8
+
+README - Project file list and explaination
+Makefile - Makefile for code compiling and memory leak checking
+Dictionary.h - Header file for the Dictionary ADT that is based on a Red-Black Tree
+Dictionary.cpp - C++ source file containing the implementation of the ADT and functions defined in Dictionary.h
+DictionaryTest.cpp - Test harness for the Dictionary ADT
+Order.cpp - Highest level client, scans lines of input from a file and creates a Red-Black Tree from the entries.
+outputs the the sorted order of the Tree and an In-order-traversal of the tree
